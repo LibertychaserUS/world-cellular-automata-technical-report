@@ -42,10 +42,9 @@ World Cellular Automata (WCA) is a recursive architecture for world-state
 modeling. Instead of mapping an observed state directly to a future state, WCA
 expands a global state into a family of node-centered local worlds, evolves
 those local worlds through learned pair interactions, and recomposes their
-centers into the next global state. This technical report introduces the WCA
-architecture, gives its finite-set and tensor semantics, and records a staged
-experimental program across mazes, WeatherBench-style fields, and PDEBench
-reaction-diffusion. The central claim is architecture-first: recursive
+centers into the next global state. We develop the WCA architecture from its
+finite-set and tensor semantics to a staged experimental program across mazes,
+WeatherBench-style fields, and PDEBench reaction-diffusion. The central claim is architecture-first: recursive
 local-world synthesis is a viable and testable primitive for structured
 world-state prediction. The current evidence is strongest in token-level
 PDEBench reaction-diffusion, where recursion depth, learnable field interfaces,
@@ -60,13 +59,13 @@ research direction, but as the next experimental frontier.
 \tableofcontents
 \newpage
 
-\section{Purpose of This Technical Report}
+\section{Scope and Use}
 
-This document is a technical report, not a compressed conference submission.
-Its purpose is to make the WCA research program legible and reproducible:
-what the architecture is, why it is worth studying, what has been tested, what
-the experiments show, what they do not yet show, and which next steps are
-scientifically justified.
+This release is written as a complete research record rather than a compressed
+conference submission. Its purpose is to make the WCA program legible and
+reproducible: what the architecture is, why it is worth studying, what has
+been tested, what the experiments show, what they do not yet show, and which
+next steps are scientifically justified.
 
 The report is intended for public release on GitHub, Hugging Face, and Zenodo.
 It therefore favors completeness over page economy. It includes architecture
@@ -588,8 +587,8 @@ must come from explicitly declared metric space.}
 
 \section{Negative Results and Lessons}
 
-A technical report should record failures because they explain the next
-research program.
+Failures are part of the evidence record because they explain which claims are
+supported, which ones are not, and where the next experiments should focus.
 
 \subsection{Maze failure modes}
 
@@ -680,7 +679,7 @@ state-space architecture.
 The public release should include:
 
 \begin{itemize}[leftmargin=2em]
-  \item this technical report in English and Chinese;
+  \item English and Chinese PDF reports;
   \item source LaTeX files and compiled PDFs;
   \item figures and tables used in the report;
   \item a claim table separating formal, source-audit, secondary, diagnostic,
@@ -714,4 +713,3 @@ interfaces, broader physical benchmarks, longer rollout, and efficient
 dense-equivalent implementation.
 
 \end{document}
-

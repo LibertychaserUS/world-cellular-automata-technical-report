@@ -134,13 +134,13 @@
     },
     {
       "path": "latex/wca_technical_report_en.tex",
-      "sha256": "3aa27ded8aee571ea48abb7a1e8c917e6f49514adf07588c2d776055ea60b881",
-      "size_bytes": 27238
+      "sha256": "1b262318d9591ee5ac744467f4ef012351ec8665a6c7728e3088488e8c41ab4a",
+      "size_bytes": 27252
     },
     {
       "path": "latex/wca_technical_report_zh.tex",
-      "sha256": "25fa37a58fef4c85bc405bb2431805f5415cd7f8046cda31f8674b58577e6291",
-      "size_bytes": 22536
+      "sha256": "3ade3987b9bbaa8136fba19e6c655884b06aaa0968422213354afa8b0e9dad80",
+      "size_bytes": 22527
     },
     {
       "path": "model_card.md",
@@ -149,13 +149,13 @@
     },
     {
       "path": "pdf/wca_technical_report_en.pdf",
-      "sha256": "071d09cc2df06d54765dc2b48a6566d02656cdd46788aef6d16d85acbae26088",
-      "size_bytes": 1462257
+      "sha256": "0eaa49a4f31e2db4779d8ccd17fb2de37c3a651ff6944b8b2b1c48a3fcaf51a2",
+      "size_bytes": 1462309
     },
     {
       "path": "pdf/wca_technical_report_zh.pdf",
-      "sha256": "eac2516bfb868b0078e8ba7a9da165e14b05b8eb02feee66fcde98ae45563957",
-      "size_bytes": 1550409
+      "sha256": "273259626c8be6016c16012c82e4407e10533231321e886a16f2f4ab8c69561c",
+      "size_bytes": 1550319
     },
     {
       "path": "tables/v25d_h8x2_main_numeric_table.md",
