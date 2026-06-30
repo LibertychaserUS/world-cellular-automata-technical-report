@@ -1,0 +1,25 @@
+{
+  "title": "World Cellular Automata: A Recursive Local-World Architecture for World-State Modeling",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "Technical report v0.1 for World Cellular Automata (WCA), a recursive local-world architecture for world-state modeling. The report introduces the architecture, gives finite-set and tensor semantics, and records staged experiments across maze, WeatherBench-style, and PDEBench reaction-diffusion tasks.",
+  "creators": [
+    {
+      "name": "WCA Research Project"
+    }
+  ],
+  "keywords": [
+    "world models",
+    "cellular automata",
+    "PDEBench",
+    "physical field prediction",
+    "recursive state-space models",
+    "neural operators",
+    "long-horizon rollout"
+  ],
+  "language": "eng",
+  "version": "v0.1",
+  "license": "cc-by-4.0",
+  "notes": "Replace creator metadata with final author list before formal Zenodo deposition if needed. This metadata intentionally contains no DOI placeholder."
+}
+

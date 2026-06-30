@@ -1,0 +1,171 @@
+{
+  "package": "wca_technical_report_v0.1",
+  "generated_at": "2026-07-01",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "a5eb61b1eb311b9de6e1079de252831b40a11337c6f068bcc37e02ee586b2d1a",
+      "size_bytes": 503
+    },
+    {
+      "path": "README.md",
+      "sha256": "29a21f9087ae8ccaf06e16a997c0c7351c99cd8cfcaf2739a1e9b8451e1d4c71",
+      "size_bytes": 2040
+    },
+    {
+      "path": "build_notes.md",
+      "sha256": "e6e4cde5d7ab906ab2c75b7093950889046a437fab63ea1511b4fb4fd9b8317b",
+      "size_bytes": 834
+    },
+    {
+      "path": "dataset_and_artifact_card.md",
+      "sha256": "8c869e60760541ec41be8635187e7c31b49d3013ec0d2d93788ee355b1b0b126",
+      "size_bytes": 2105
+    },
+    {
+      "path": "figures/main_result_statistical_strength.png",
+      "sha256": "a59bb6e93a3dce7a0ff7985be8a9b5219f553b10ea305820555e5de6d44c2e9c",
+      "size_bytes": 61706
+    },
+    {
+      "path": "figures/main_result_statistical_strength.svg",
+      "sha256": "32dba3f7e978a83e8796604bbbf8d826d0109e08ce647de6daf006b0eaa59fc7",
+      "size_bytes": 38807
+    },
+    {
+      "path": "figures/pdebench_h8_u_model_composite.png",
+      "sha256": "edf236e2f82b900801daa780a8221430c1e9c9cb00fe3ad756e0579577fe9018",
+      "size_bytes": 432642
+    },
+    {
+      "path": "figures/pdebench_h8_u_model_composite.svg",
+      "sha256": "b0dda13b43411ac0fc2a1a1437d37b3898ae975585b7ed2a1fba899ebe25778b",
+      "size_bytes": 404236
+    },
+    {
+      "path": "figures/pdebench_h8_v_model_composite.png",
+      "sha256": "e4d4850fe93755237b895836a1238aa1d2d604fe633751b70bf5bd7bb1b82c78",
+      "size_bytes": 417497
+    },
+    {
+      "path": "figures/pdebench_h8_v_model_composite.svg",
+      "sha256": "012cb5e6694b4589cd2b07acd9ec6a23d67baaf0b71cd20ab5f16f2893a2a567",
+      "size_bytes": 382029
+    },
+    {
+      "path": "figures/v25d_rollout_mean_mse.png",
+      "sha256": "7052691be4e34c5b442cb240c4b8b4c4423cb068afdabf4117a5b55bbe7b21bc",
+      "size_bytes": 56406
+    },
+    {
+      "path": "figures/v25d_rollout_mean_mse.svg",
+      "sha256": "9e71a7eb569a97a4029a680f563a54b12932b9d63cbbe61d81a185995447670e",
+      "size_bytes": 32645
+    },
+    {
+      "path": "figures/v25d_rollout_paired_delta.png",
+      "sha256": "af68e0cb8c8db00e4b6d7fdaf55ee603b6351055119f469cdb901f07416b5312",
+      "size_bytes": 62717
+    },
+    {
+      "path": "figures/v25d_rollout_paired_delta.svg",
+      "sha256": "2c5744db9636fb3d8daaf10a43e5648b920f8caae033b5fd57aeea075732da65",
+      "size_bytes": 34340
+    },
+    {
+      "path": "figures/wca_formal_operator_diagram.png",
+      "sha256": "dd552ec24333e57496145f6e4dc2909815e5bb49b43261e876f756af2157cda7",
+      "size_bytes": 265076
+    },
+    {
+      "path": "figures/wca_formal_operator_diagram.svg",
+      "sha256": "8119e9292920917948cd5b2dcdb1f4e2b82a02b446d91521d7a722a489fe4dbc",
+      "size_bytes": 89419
+    },
+    {
+      "path": "figures/wca_formal_tensor_fiber_diagram.png",
+      "sha256": "e79439ea0c3406ced423f55d895a405aac0e295d9b2d65fa6adbe8471ba9bbfa",
+      "size_bytes": 222939
+    },
+    {
+      "path": "figures/wca_formal_tensor_fiber_diagram.svg",
+      "sha256": "b7d174f9508ec84e0e6989e4fc2314eebf8ea98ee3134ad299ad32ac1d1cff33",
+      "size_bytes": 84505
+    },
+    {
+      "path": "figures/weatherbench_h8_mslp_model_composite.png",
+      "sha256": "efc56e3571bd0b7f7e9bbc7cbcce0e5fb3f37eb748e22bb98ccce016b30cc76b",
+      "size_bytes": 809709
+    },
+    {
+      "path": "figures/weatherbench_h8_mslp_model_composite.svg",
+      "sha256": "9ce9cd63938355b348379261ba1648f406d9aabbf1936492b323c1715feb5d2f",
+      "size_bytes": 894279
+    },
+    {
+      "path": "figures/weatherbench_h8_t2m_model_composite.png",
+      "sha256": "bea6d44d91956f41c2a64bbf398dd9375a9ae4533b3c61d40bf3636fc1861847",
+      "size_bytes": 848946
+    },
+    {
+      "path": "figures/weatherbench_h8_t2m_model_composite.svg",
+      "sha256": "1406c6a9bd4912fac75c6c292c54120e985a6a7f707e4cd1600b8cc002c71ba4",
+      "size_bytes": 945554
+    },
+    {
+      "path": "figures/weatherbench_h8_u10_model_composite.png",
+      "sha256": "8e68eaea8953acf50c606f7474ab3317bd16b8948d6fc66bf57fe30b013fe650",
+      "size_bytes": 1007054
+    },
+    {
+      "path": "figures/weatherbench_h8_u10_model_composite.svg",
+      "sha256": "ef703fa5ca51939f5d7561b3754fd546f3542b6d1aa4d8355a6cc8bb47abaf0a",
+      "size_bytes": 1145620
+    },
+    {
+      "path": "figures/weatherbench_h8_v10_model_composite.png",
+      "sha256": "79f814336f6114d09120218b14e78edd4d15d5ae7c9b53a43971db320f3b8eb8",
+      "size_bytes": 1051714
+    },
+    {
+      "path": "figures/weatherbench_h8_v10_model_composite.svg",
+      "sha256": "eb1bf7ceb1ec224b47cc67f16bf71e1b4a557c2b010dd494853e1abc5fd4bddc",
+      "size_bytes": 1198307
+    },
+    {
+      "path": "latex/wca_technical_report_en.tex",
+      "sha256": "3aa27ded8aee571ea48abb7a1e8c917e6f49514adf07588c2d776055ea60b881",
+      "size_bytes": 27238
+    },
+    {
+      "path": "latex/wca_technical_report_zh.tex",
+      "sha256": "25fa37a58fef4c85bc405bb2431805f5415cd7f8046cda31f8674b58577e6291",
+      "size_bytes": 22536
+    },
+    {
+      "path": "model_card.md",
+      "sha256": "02f937d63aa5ffb73e3bd4ddd7e9c1e439501756b858814ca78653f1323c5d8e",
+      "size_bytes": 1907
+    },
+    {
+      "path": "pdf/wca_technical_report_en.pdf",
+      "sha256": "071d09cc2df06d54765dc2b48a6566d02656cdd46788aef6d16d85acbae26088",
+      "size_bytes": 1462257
+    },
+    {
+      "path": "pdf/wca_technical_report_zh.pdf",
+      "sha256": "eac2516bfb868b0078e8ba7a9da165e14b05b8eb02feee66fcde98ae45563957",
+      "size_bytes": 1550409
+    },
+    {
+      "path": "tables/v25d_h8x2_main_numeric_table.md",
+      "sha256": "61d28e4d4ea4725f34e2ef438073aadd1d1dd6a49062f76986cda976399ed370",
+      "size_bytes": 1881
+    },
+    {
+      "path": "zenodo_metadata.json",
+      "sha256": "11b463966c2777c29a78b692febb0810e88e2cc4368b34f79db8eafdfd22fb40",
+      "size_bytes": 1000
+    }
+  ]
+}

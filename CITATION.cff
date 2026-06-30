@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this report or its released artifacts, please cite it using this metadata."
+title: "World Cellular Automata: A Recursive Local-World Architecture for World-State Modeling"
+version: "0.1"
+date-released: "2026-07-01"
+type: report
+authors:
+  - name: "WCA Research Project"
+keywords:
+  - world models
+  - cellular automata
+  - PDEBench
+  - physical field prediction
+  - recursive state-space models
+  - neural operators
+  - long-horizon rollout
+license: "CC-BY-4.0"
+
