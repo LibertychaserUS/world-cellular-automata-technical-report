@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "29a21f9087ae8ccaf06e16a997c0c7351c99cd8cfcaf2739a1e9b8451e1d4c71",
-      "size": 2040
+      "sha256": "0dbf046aab9c659b0f1909d4846a4f613a1a75fb7adf54c98b9f1e9ea8ddf1a2",
+      "size": 2330
     },
     {
       "path": "build_notes.md",
@@ -158,8 +158,8 @@
     },
     {
       "path": "release_manifest.json",
-      "sha256": "c59fe17cc0afdccbc9be5097dd2ef030e8c23652cb60c2d41c2d2b3161b2e073",
-      "size": 5956
+      "sha256": "ed14b10fe3b7a686462905e97a0e753781d915fd34d8168c3e2d091e93ca49a8",
+      "size": 6062
     },
     {
       "path": "tables/v25d_h8x2_main_numeric_table.md",
@@ -172,7 +172,7 @@
       "size": 1000
     }
   ],
-  "generated_at": "2026-06-30T22:27:24.190934+00:00",
+  "generated_at": "2026-06-30T22:40:45.396872+00:00",
   "policy": "public_report_release_no_local_metadata",
   "schema": "world-cellular-automata.technical_report_release.v1",
   "version": "report-v0.1"

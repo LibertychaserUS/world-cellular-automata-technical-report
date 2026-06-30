@@ -1,3 +1,21 @@
+---
+pretty_name: "World Cellular Automata Technical Report"
+language:
+  - en
+  - zh
+license: mit
+task_categories:
+  - time-series-forecasting
+  - image-to-image
+tags:
+  - world-model
+  - cellular-automata
+  - physical-field-prediction
+  - pdebench
+  - weatherbench
+  - technical-report
+---
+
 # World Cellular Automata Technical Report v0.1
 
 This release contains the public technical report package for World Cellular
@@ -52,4 +70,3 @@ interface-only and no-recursion controls.
 
 Use the metadata in `CITATION.cff`. Replace placeholder author fields before
 formal archive submission if individual authorship should be listed.
-
