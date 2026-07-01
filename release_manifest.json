@@ -1,15 +1,16 @@
 {
+  "doi": "10.5281/zenodo.21085154",
   "file_count": 33,
   "files": [
     {
       "path": "CITATION.cff",
-      "sha256": "a5eb61b1eb311b9de6e1079de252831b40a11337c6f068bcc37e02ee586b2d1a",
-      "size": 503
+      "sha256": "cc3bdf8a71b95c2dae9f39b57516031093faf249a54a3abe358f143127767b09",
+      "size": 576
     },
     {
       "path": "README.md",
-      "sha256": "198c2c123f9f1c3ea0f533385e703eaf4631c72f66dab6ac28a39fd5de3c5982",
-      "size": 3291
+      "sha256": "ca435155e16c4f6d676c7f8f787f0444c853c947bc4af7b37e0bc9cefe7f262b",
+      "size": 3155
     },
     {
       "path": "build_notes.md",
@@ -163,11 +164,12 @@
     },
     {
       "path": "zenodo_metadata.json",
-      "sha256": "11b463966c2777c29a78b692febb0810e88e2cc4368b34f79db8eafdfd22fb40",
-      "size": 1000
+      "sha256": "a3668e39a90e0d1bf099b1a062c115e7abd314d64d72ca87ee315fd5ca0b5570",
+      "size": 1513
     }
   ],
-  "generated_at": "2026-07-01T09:39:35.685367+00:00",
+  "generated_at": "2026-07-01T09:44:47.686348+00:00",
   "schema": "world-cellular-automata.technical_report_release.v1",
-  "version": "0.1"
+  "version": "0.1",
+  "zenodo_record": "https://zenodo.org/records/21085154"
 }

@@ -30,9 +30,8 @@ Automata (WCA): a recursive local-world architecture for world-state modeling.
 - Hugging Face report/artifact mirror:
   <https://huggingface.co/datasets/Chaser111/world-cellular-automata-technical-report>
 - Zenodo archive / DOI:
-  pending. This release includes `wca_technical_report_v0.1_release.zip` and
-  `zenodo_metadata.json`; use them to create the Zenodo record, then replace
-  this line with the final DOI and record URL.
+  <https://doi.org/10.5281/zenodo.21085154>
+  Record page: <https://zenodo.org/records/21085154>
 
 ## What WCA Is
 
@@ -86,10 +85,10 @@ formal archive submission if individual authorship should be listed.
 
 ## Archive And DOI
 
-The intended archival path is:
+Use the Zenodo DOI for archival citation:
+<https://doi.org/10.5281/zenodo.21085154>.
 
-1. Upload `wca_technical_report_v0.1_release.zip` to Zenodo.
-2. Use `zenodo_metadata.json` as the deposition metadata seed.
-3. Mint the Zenodo DOI.
-4. Add the DOI badge and record URL to the code README, this report README, and
-   the Hugging Face dataset card.
+Record page: <https://zenodo.org/records/21085154>.
+
+For reproducibility, cite both the technical report DOI and the source-code
+commit or release tag used to run experiments.

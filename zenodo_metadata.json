@@ -20,6 +20,23 @@
   "language": "eng",
   "version": "v0.1",
   "license": "cc-by-4.0",
-  "notes": "Replace creator metadata with final author list before formal Zenodo deposition if needed. This metadata intentionally contains no DOI placeholder."
+  "doi": "10.5281/zenodo.21085154",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/LibertychaserUS/world-cellular-automata",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/LibertychaserUS/world-cellular-automata-technical-report",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/Chaser111/world-cellular-automata-technical-report",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Replace creator metadata with final author list if needed. DOI: 10.5281/zenodo.21085154."
 }
-
