@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "0d5e7a2095a73503515d71513059a6320996da2f775b36f556826ce2bcbcaf07",
-      "size": 2751
+      "sha256": "198c2c123f9f1c3ea0f533385e703eaf4631c72f66dab6ac28a39fd5de3c5982",
+      "size": 3291
     },
     {
       "path": "build_notes.md",
@@ -167,7 +167,7 @@
       "size": 1000
     }
   ],
-  "generated_at": "2026-07-01T09:24:04.222878+00:00",
+  "generated_at": "2026-07-01T09:39:35.685367+00:00",
   "schema": "world-cellular-automata.technical_report_release.v1",
   "version": "0.1"
 }
