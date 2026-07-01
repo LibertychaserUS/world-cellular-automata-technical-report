@@ -21,6 +21,15 @@ tags:
 This release contains the public technical report package for World Cellular
 Automata (WCA): a recursive local-world architecture for world-state modeling.
 
+## Related Public Repositories
+
+- Code and reproducible experiment entrypoints:
+  <https://github.com/LibertychaserUS/world-cellular-automata>
+- Technical report, PDFs, LaTeX, figures, tables, and release package:
+  <https://github.com/LibertychaserUS/world-cellular-automata-technical-report>
+- Hugging Face report/artifact mirror:
+  <https://huggingface.co/datasets/Chaser111/world-cellular-automata-technical-report>
+
 ## What WCA Is
 
 WCA represents a world state as node vectors, expands that state into a family
